@@ -1,3 +1,7 @@
-Previsão-renda
+# Previsão-renda
 
-[Previsão de renda.webm](https://github.com/user-attachments/assets/1fe2d081-a3e5-4a90-8032-0a373c386e14)
+Projeto desenvolvido utilizando o streamlit.
+
+## Streamlit:
+
+[Projeto_Previsao-Renda.webm](https://github.com/user-attachments/assets/09520607-617d-41d4-a82d-a6af414cd00d)
